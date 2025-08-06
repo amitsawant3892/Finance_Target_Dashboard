@@ -2,7 +2,7 @@
 
 This project is a **Sales Performance Dashboard** created to visualize and analyze the performance of sales executives across multiple regions.
 
-https://github.com/amitsawant3892/Finance_Target_Dashboard/blob/main/dashboard.png
+![Dashboard Screenshot](https://github.com/amitsawant3892/Finance_Target_Dashboard/blob/main/dashboard.png)
 
 
 ## 📊 Overview
