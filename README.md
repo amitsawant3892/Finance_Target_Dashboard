@@ -1,2 +1,14 @@
-# Finance_Target_Dashboard
-This project is a dynamic and interactive Excel dashboard designed to track and analyze the sales performance of individual salesmen against their assigned targets.   
+# Sales Dashboard
+
+This project is a **Sales Performance Dashboard** created to visualize and analyze the performance of sales executives across multiple regions.
+
+![Dashboard Screenshot](./path-to-your-image.png)
+
+## 📊 Overview
+
+The dashboard provides the following insights:
+
+- **Total Sales by Sales Executives**
+- **Target Achievement Percentages**
+- **Distribution of Sales**
+- **Deviation from Sales Targets**
